@@ -1,0 +1,20 @@
+{
+    "TorysFutsal": {
+        "lambda": {},
+        "apigateway": {
+            "path": "/torysfutsal",
+            "method": {
+                "value": "GET",
+                "items": [
+                    "GET",
+                    "POST",
+                    "PUT",
+                    "DELETE",
+                    "HEAD",
+                    "OPTIONS",
+                    "PATCH"
+                ]
+            }
+        }
+    }
+}
