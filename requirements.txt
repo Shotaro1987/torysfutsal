@@ -16,7 +16,7 @@ Click==7.0
 cookiecutter==1.6.0
 dateparser==0.7.2
 decorator==4.4.1
-Django==2.0.2
+Django==2.2.24
 docker==4.1.0
 docutils==0.15.2
 Flask==1.0.4
