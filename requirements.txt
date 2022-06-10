@@ -13,7 +13,7 @@ certifi==2019.11.28
 chardet==3.0.4
 chevron==0.13.1
 Click==7.0
-cookiecutter==1.6.0
+cookiecutter==2.1.1
 dateparser==0.7.2
 decorator==4.4.1
 Django==2.0.2
